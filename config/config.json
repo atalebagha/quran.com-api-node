@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "quran_dev",
+    "password": "dev_quran",
+    "database": "quran_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "migrationStorage": "none",
+    "benchmark": true
+  },
+  "test": {
+    "username": "quran_dev",
+    "password": "dev_quran",
+    "database": "quran_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "quran_dev",
+    "password": "dev_quran",
+    "database": "quran_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
